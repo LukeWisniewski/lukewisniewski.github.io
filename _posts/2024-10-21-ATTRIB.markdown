@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Algorithmic Phase Transitions in Large Language Models: A Mechanistic Case Study of Arithmetic"
+date:   2024-10-20 23:12:00 +00:00
+image: /images/ATTRIB-2024-cover.png
+categories: research
+author: "Alan Sun, Ethan Sun, <b>Warren Shepard</b>"
+venue: ATTRIB @ NeurIPS (2024)
+---
