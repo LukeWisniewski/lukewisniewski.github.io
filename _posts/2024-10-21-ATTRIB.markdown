@@ -5,5 +5,7 @@ date:   2024-10-20 23:12:00 +00:00
 image: /images/ATTRIB-2024-cover.png
 categories: research
 authors: "Alan Sun, Ethan Sun, <b>Warren Shepard</b>"
-venue: ATTRIB @ NeurIPS 2024 <span style="color:red;">(to appear)</span>
+venue: ATTRIB @ NeurIPS 2024
+paper: https://arxiv.org/abs/2412.07386
+code: https://github.com/alansun17904/mech-arith
 ---
