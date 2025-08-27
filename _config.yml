@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Warren Shepard
+name: Luke Wisniewski
 
 # Short bio or description (displayed in the header)
 # description: the profile of an engineer, researcher and software developer
@@ -19,12 +19,12 @@ google-site-verification: yKX7JrA6oGKfwqeWxrHhW6HGDvf_VCNA-Q3sicdtzuc
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: warren.a.shepard.26@dartmouth.edu
+  email: luke.r.wisniewski.26@dartmouth.edu
   facebook:
   flickr:
   github: 
   instagram: 
-  linkedin:
+  linkedin: www.linkedin.com/in/luke-wisniewski-36a660262
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
@@ -43,7 +43,7 @@ google_analytics: G-P0XZKK0FN8
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "https://warrenshepard.github.io" # the base hostname & protocol for your site
+url: "https://lukewisniewski.github.io" # the base hostname & protocol for your site
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
